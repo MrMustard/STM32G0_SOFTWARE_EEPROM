@@ -25,3 +25,9 @@ y leer permisos y list telefonica
 
 no hay pierde
 
+
+
+
+
+
+
