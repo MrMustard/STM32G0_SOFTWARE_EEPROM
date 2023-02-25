@@ -1,0 +1,5 @@
+../eeprom_mamalona/eeprom_mamalona.c:12:10:getHexAddressPage	24	static
+../eeprom_mamalona/eeprom_mamalona.c:18:6:memoryPageErase	32	static
+../eeprom_mamalona/eeprom_mamalona.c:30:6:writeThreeData	48	static
+../eeprom_mamalona/eeprom_mamalona.c:42:10:retrieveDataFromAddress	16	static
+../eeprom_mamalona/eeprom_mamalona.c:48:6:writeData	32	static
