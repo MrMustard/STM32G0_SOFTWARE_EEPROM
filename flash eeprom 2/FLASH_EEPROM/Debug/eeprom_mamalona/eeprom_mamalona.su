@@ -1,0 +1,10 @@
+../eeprom_mamalona/eeprom_mamalona.c:14:10:getHexAddressPage	24	static
+../eeprom_mamalona/eeprom_mamalona.c:20:6:memoryPageErase	32	static
+../eeprom_mamalona/eeprom_mamalona.c:32:6:writeThreeData	48	static
+../eeprom_mamalona/eeprom_mamalona.c:44:10:retrieveDataFromAddress	16	static
+../eeprom_mamalona/eeprom_mamalona.c:50:6:writeData	32	static
+../eeprom_mamalona/eeprom_mamalona.c:62:6:eeprom_write_list	416	static
+../eeprom_mamalona/eeprom_mamalona.c:399:10:eeprom_read_key	16	static
+../eeprom_mamalona/eeprom_mamalona.c:503:6:eeprom_read_tel_number	80	static
+../eeprom_mamalona/eeprom_mamalona.c:727:6:imprimir_vector	32	static
+../eeprom_mamalona/eeprom_mamalona.c:740:6:eeprom_init	8	static
